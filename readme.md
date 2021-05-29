@@ -1,62 +1,31 @@
-# Project Title
+# Fix-Lastpass
 
-Simple overview of use/purpose.
+Moves the show password button on the login form so that it doesn't clash with the LastPass fill field button.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+When using the LastPass browser extension to login to WordPress self-hosted sites, the LastPass fill field button is covered by the WordPress show password button making it impossible to fill the password field using LastPass. This plugin does just one thing: it moves the show password button to the left a bit so the LastPass fill field button is accessible.
 
-## Getting Started
 
 ### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Tested with WordPress up to version: 5.7
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
+1. Activate the plugin through the 'Plugins' screen in WordPress
+1. Once activated, the plugin will just work. It requires no more interaction from the user.
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+I can be found, occasionally at:
+[@FrancisMaile](https://twitter.com/FrancisMaile)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
+* * 0.1b
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+See the plugin readme.txt

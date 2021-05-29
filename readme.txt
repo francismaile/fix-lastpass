@@ -1,10 +1,10 @@
 === Fix-Lastpass ==
 Contributors: FrancisMaile
 Donate link: https://francismaile.com/donate
-Tags: admin, custom admin, custom login, custom login page, custom wp-login, customization, customize wordpress login, lastpass customize login, login, login customizer, login page, login page customizer, login screen login, wordpress login, wp login, wp-login, wp-admin, 
+Tags: custom login, custom wp-login, lastpass login, login, customize login, login page
 Requires at least: 5.2
 Tested up to: 5.7
-Stable tag: 1.0b
+Stable tag: 0.1b
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
